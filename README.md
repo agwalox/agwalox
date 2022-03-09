@@ -1,4 +1,4 @@
-- 👋🏿 Hi, I’m @agwalox
+- 👋🏿 Hi, I’m Kim 
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning C# and using the Unity Game Engine.
 - 💞️ I’m looking to collaborate on game ventures to increase my knowledge and learn more!
